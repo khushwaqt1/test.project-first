@@ -1,0 +1,83 @@
+.header{
+    background-color: #7451eb;
+    padding-left: 3cm;
+    padding-top: 1cm;
+    color: white;
+}
+#noor{
+    font-size: 30px ;
+}
+.image{
+    float: right;
+    padding-top: 0%;
+
+   
+}
+
+
+
+#image{
+    width: 160px;
+    height: 160px;
+    border-radius: 5%;
+    margin-top: 1px;
+}
+.footer{
+    width:100%;
+    height: 6cm;
+    background-color:rgb(0, 54, 104);
+    padding: 1cm;
+}
+p.span{
+    background-color: seagreen;
+}
+.col-md-3{
+    padding-top: 3cm;
+    padding-left: 1cm;
+}
+#int{
+    width:40px;
+    height: 40px;
+    border: black solid 1px;
+}
+#twit{
+    width:40px;
+    height: 40px;
+    border: black solid 1px;
+}
+#snap{
+    width:40px;
+    height: 40px;
+    border: black solid 1px;
+}
+h4{
+    color: white;
+}
+span1{
+    background-color:#00e79a;
+}
+.col-md-6{
+    padding-top: 1cm;
+}
+span{
+    background-color: rgb(0, 237, 162);
+    color: black;
+}
+.space{
+    width: 100%;
+    height: 4cm;
+}
+
+/* here i got css for html form this is a links css */
+.form{
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 30%;
+    border:black solid 3px;
+
+    width: 400px;
+    height: 300px;
+}
+body{
+    background-color: darkblue;
+}
